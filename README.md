@@ -1,7 +1,7 @@
 # ewhoring-analysis
 
 *eWhoring* is the term used by offenders to refer to a type of online fraud in which cybersexual encounters are simulated for financial gain. Perpetrators use social engineering techniques to impersonate young women in online communities, e.g., chat or social networking sites. They engage potential customers in conversation with the aim of selling misleading sexual material -- mostly photographs and interactive video shows -- illicitly compiled from third-party sites. eWhoring is a popular topic in underground communities, with forums acting as a gateway into offending. Users not only share knowledge and tutorials, but also trade in goods and services, such as packs of images and videos.  This repository contains the code used to analyse eWhoring activities from underground forums. Refer to our research papers for further details:
-- **Understanding eWhoring**, Alice Hutchings and Sergio Pastrana, *Proceedings of the 4th IEEE European Symposium on Security and Privacy (EuroS&P)*, 2019 [link](https://www.cl.cam.ac.uk/~sp849/files/Understanding_eWhoring.pdf),
-- **Measuring eWhoring**, Sergio Pastrana, Alice Hutchings, Daniel Thomas and Juan Tapiador ,*Proceedings of the 4th IEEE European Symposium on Security and Privacy (EuroS&P)* [link TBD]
+- **Understanding eWhoring**, Alice Hutchings and Sergio Pastrana, *Proceedings of the 4th IEEE European Symposium on Security and Privacy (EuroS&P)*, Stockholm, 2019 [link](https://www.cl.cam.ac.uk/~sp849/files/Understanding_eWhoring.pdf)
+- **Measuring eWhoring**, Sergio Pastrana, Alice Hutchings, Daniel Thomas and Juan Tapiador ,*Proceedings of the 2019 Internet Measurement Conference (IMC ’19)*, Amsterdam, 2019 [link TBD]
 
 Due to ethical reasons, the complete dataset is not released publicly. To get access to such dataset, please contact the [Cambridge Cybercrime Centre](https://www.cambridgecybercrime.uk)
